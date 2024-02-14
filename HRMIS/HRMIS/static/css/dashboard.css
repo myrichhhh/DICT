@@ -5,3 +5,7 @@
 .bg-custom-banner {
     background-color: #CDF4FF;
 }
+.tooltip.visible {
+    visibility: visible;
+    opacity: 1;
+}

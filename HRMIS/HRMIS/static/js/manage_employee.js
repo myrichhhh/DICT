@@ -288,3 +288,4 @@ function saveNewUser() {
     };
     xhr.send(formData);
 }
+
